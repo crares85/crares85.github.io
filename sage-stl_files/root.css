@@ -1,0 +1,30 @@
+BODY {
+	FONT-FAMILY: sans-serif; MARGIN-LEFT: 10px; BACKGROUND-COLOR: white
+}
+#sagecell_main {
+	MARGIN-BOTTOM: 80%
+}
+A {
+	COLOR: mediumblue; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+.sagecell BUTTON.sagecell_evalButton {
+	FONT-SIZE: 120%
+}
+#sagecell_about {
+	FONT-SIZE: 80%; RIGHT: 5px; POSITION: absolute; TOP: 5px
+}
+OL.sagecell_toc {
+	LIST-STYLE-TYPE: none
+}
+OL.sagecell_toc OL {
+	LIST-STYLE-TYPE: none
+}
+.sagecell_disclaimer {
+	FONT-SIZE: 80%
+}
+.CodeMirror-scroll {
+	HEIGHT: auto; OVERFLOW-X: auto; OVERFLOW-Y: auto; MIN-HEIGHT: 12ex; MAX-HEIGHT: 45ex
+}

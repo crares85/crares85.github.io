@@ -1,0 +1,105 @@
+BODY {
+	FONT-SIZE: 90%; BORDER-TOP: 0px; BORDER-RIGHT: 0px; BACKGROUND: #fff; MIN-WIDTH: 600px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; BORDER-LEFT: 0px; PADDING-RIGHT: 0px; WIDTH: 100%
+}
+A {
+	COLOR: #369
+}
+A:hover {
+	BACKGROUND: #369; COLOR: #fff; TEXT-DECORATION: none
+}
+H1 {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0.8em 0px 0.2em; PADDING-RIGHT: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0.8em 0px 0.2em; PADDING-RIGHT: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0.8em 0px 0.2em; PADDING-RIGHT: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0.4em 0px 0.8em; PADDING-RIGHT: 0px
+}
+IMG {
+	MARGIN: 10px 0px 5px
+}
+#ads IMG {
+	PADDING-TOP: 10px; DISPLAY: block
+}
+#header {
+	FLOAT: left; CLEAR: both; WIDTH: 100%
+}
+#header {
+	BORDER-BOTTOM: #000 1px solid
+}
+#header P {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0.4em; PADDING-LEFT: 15px; MARGIN: 0px; PADDING-RIGHT: 15px
+}
+#header H1 {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0.4em; PADDING-LEFT: 15px; MARGIN: 0px; PADDING-RIGHT: 15px
+}
+#header H2 {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0.4em; PADDING-LEFT: 15px; MARGIN: 0px; PADDING-RIGHT: 15px
+}
+#header UL {
+	LIST-STYLE-TYPE: none; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; CLEAR: left; MARGIN: 10px 0px 0px; PADDING-RIGHT: 0px; WIDTH: 100%
+}
+#header UL LI {
+	LIST-STYLE-TYPE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; DISPLAY: inline; PADDING-RIGHT: 0px
+}
+#header UL LI A {
+	BACKGROUND: #eee; POSITION: relative; FLOAT: left; COLOR: #000; PADDING-BOTTOM: 3px; TEXT-ALIGN: center; PADDING-TOP: 3px; PADDING-LEFT: 10px; LEFT: 15px; TEXT-DECORATION: none; MARGIN: 0px 0px 0px 1px; DISPLAY: block; LINE-HEIGHT: 1.3em; PADDING-RIGHT: 10px
+}
+#header UL LI A:hover {
+	BACKGROUND: #369; COLOR: #fff
+}
+#header UL LI A.active {
+	BACKGROUND: #a4a4eb; FONT-WEIGHT: bold; COLOR: #fff
+}
+#header UL LI A.active:hover {
+	BACKGROUND: #a4a4eb; FONT-WEIGHT: bold; COLOR: #fff
+}
+#header UL LI A SPAN {
+	DISPLAY: block
+}
+#layoutdims {
+	BORDER-TOP: #000 4px solid; BACKGROUND: #eee; PADDING-BOTTOM: 6px !important; TEXT-ALIGN: right; PADDING-TOP: 6px !important; PADDING-LEFT: 15px !important; CLEAR: both; MARGIN: 0px; PADDING-RIGHT: 15px !important
+}
+.colmask {
+	OVERFLOW: hidden; POSITION: relative; FLOAT: left; CLEAR: both; WIDTH: 100%
+}
+.colright {
+	POSITION: relative; FLOAT: left; WIDTH: 100%
+}
+.colmid {
+	POSITION: relative; FLOAT: left; WIDTH: 100%
+}
+.colleft {
+	POSITION: relative; FLOAT: left; WIDTH: 100%
+}
+.col1 {
+	OVERFLOW: hidden; POSITION: relative; FLOAT: left; PADDING-BOTTOM: 1em; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.col2 {
+	OVERFLOW: hidden; POSITION: relative; FLOAT: left; PADDING-BOTTOM: 1em; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.col3 {
+	OVERFLOW: hidden; POSITION: relative; FLOAT: left; PADDING-BOTTOM: 1em; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.leftmenu {
+	BACKGROUND: #fff
+}
+.leftmenu .colleft {
+	BACKGROUND: #f4f4f4; RIGHT: 75%
+}
+.leftmenu .col1 {
+	LEFT: 102%; WIDTH: 71%
+}
+.leftmenu .col2 {
+	LEFT: 6%; WIDTH: 21%
+}
+#footer {
+	BORDER-TOP: #000 1px solid; FLOAT: left; CLEAR: both; WIDTH: 100%
+}
+#footer P {
+	PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; MARGIN: 0px; PADDING-RIGHT: 10px
+}
